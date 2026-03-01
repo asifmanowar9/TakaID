@@ -236,7 +236,7 @@ LEARNING_RATE = 0.001
 
 | Name | Student ID | Contribution |
 |------|------------|--------------|
-| **Asif Manowar** | 23100016 | Dataset Splitting, Data Pipeline | ResNet50, MobileNetV2, Custom CNN | 
+| **Asif Manowar** | 23100016 | Dataset Splitting, Data Pipeline, ResNet50, MobileNetV2, Custom CNN |
 | **Md. Talha Mahmud** | 23100069 | MobileNetV2 |
 | **Md. Siam Hossain** | 23100084 | VGG19 Implementation(Not completed) |
 
